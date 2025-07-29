@@ -51,14 +51,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SANJEEV-00&show_icons=true&theme=tokyonight" width="60%" />
-</p>
-
----
-
 ## 🎯 2025 Goals
 
 - 🔥 Solve 100+ LeetCode problems  
@@ -82,5 +74,12 @@
 
 > _"The future belongs to those who learn more skills and combine them in creative ways."_  
 > — *Robert Greene*
+
+---
+
+## 🙏 Thanks for Visiting!
+
+If you liked my profile, feel free to ⭐ star my repositories and connect with me!  
+Let’s build something impactful together 🚀
 
 ---
