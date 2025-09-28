@@ -34,10 +34,11 @@
 📌 Clean UI with real-time weather data fetching  
 🌐 Fully responsive web app hosted locally
 
-### 🧠 Image Classifier App  
-**MIT App Inventor**  
-📌 Android app to classify images with real-time predictions  
-📲 User-friendly interface using drag-and-drop logic
+### 🌟 AI Health Coach Web App  
+**Python | Streamlit | Gemini API**  
+📌 Developed an AI Health Coach app where users can log daily activities like steps, sleep hours, water intake, and resting heart rate.  
+📌 Provides rule-based health tips and personalized wellness recommendations using Gemini API.  
+🌐 Fully interactive web app deployed locally or on Streamlit Cloud.
 
 > 📁 Explore more on my [GitHub Repositories »](https://github.com/SANJEEV-00?tab=repositories)
 
