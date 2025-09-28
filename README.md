@@ -43,6 +43,12 @@
 
 ---
 
+## 🖥️ LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sanjeev_48?theme=dark&font=Fira%20Code)
+
+---
+
 ## 🏅 Achievements & Certifications
 
 - ✅ Completed **Data Analytics** course – Infosys Springboard  
