@@ -12,11 +12,13 @@
 ## 🔧 Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
@@ -67,6 +69,20 @@
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&style=for-the-badge)](https://www.kaggle.com/sanjeev48)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&style=for-the-badge)](https://leetcode.com/u/Sanjeev_48/)
 [![Gmail](https://img.shields.io/badge/-sanjeev520212@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjeev520212@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+![Sanjeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=SANJEEV-00&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SANJEEV-00&layout=compact&theme=radical)  
+
+### 🐍 Contribution Snake  
+![GitHub Contribution Snake](https://raw.githubusercontent.com/SANJEEV-00/SANJEEV-00/output/github-contribution-grid-snake.svg)
+
+### 🌀 3D Contribution Graph  
+[![Sanjeev's GitHub 3D Contributions](https://raw.githubusercontent.com/rachitverma-15/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)](https://github.com/rachitverma-15/github-profile-3d-contrib)
 
 ---
 
