@@ -82,7 +82,7 @@
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/SANJEEV-00/SANJEEV-00/output/github-contribution-grid-snake.svg)
 
 ### 🌀 3D Contribution Graph  
-[![Sanjeev's GitHub 3D Contributions](https://raw.githubusercontent.com/rachitverma-15/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)](https://github.com/rachitverma-15/github-profile-3d-contrib)
+![GitHub Contribution Snake Dark](https://raw.githubusercontent.com/SANJEEV-00/SANJEEV-00/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
