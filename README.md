@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <img src="https://github.com/SANJEEV-00/SANJEEV-00/raw/main/assets/banner.jpeg" alt="Sanjeev D Banner" style="width:100%;"/>
 
-# 👋 Hey there, I’m Sanjeev D!
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=500&color=F7AB0A&width=435&lines=👋+Hey+there,+I'm+Sanjeev+D)
 
 🎓 **Final Year B.Tech – Artificial Intelligence & Data Science**  
 💻 **Aspiring Data Analyst** passionate about unlocking insights from data using **Power BI, Python, SQL, and Excel**.  
