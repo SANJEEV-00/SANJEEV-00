@@ -80,8 +80,7 @@
 
 ### 🐍 Contribution Snake  
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/SANJEEV-00/SANJEEV-00/output/github-contribution-grid-snake.svg)
-
-### 🌀 3D Contribution Graph  
+  
 ![GitHub Contribution Snake Dark](https://raw.githubusercontent.com/SANJEEV-00/SANJEEV-00/output/github-contribution-grid-snake-dark.svg)
 
 ---
